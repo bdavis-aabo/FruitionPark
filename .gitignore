@@ -35,6 +35,9 @@ bourbon/
 !wp-content/themes/
 !wp-content/themes/fruitionpark/index.php
 
+# ignore ga.php
+/wp-content/themes/fruitionpark/assets/_inc/ga.php
+
 # ignore these plugins
 wp-content/plugins/hello.php
 
